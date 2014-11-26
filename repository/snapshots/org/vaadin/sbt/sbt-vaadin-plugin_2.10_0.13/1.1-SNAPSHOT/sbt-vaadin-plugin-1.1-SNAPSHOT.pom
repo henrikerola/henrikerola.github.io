@@ -25,7 +25,7 @@
         <dependency>
             <groupId>org.scala-sbt</groupId>
             <artifactId>sbt</artifactId>
-            <version>0.13.5</version>
+            <version>0.13.7</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
